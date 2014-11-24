@@ -1,0 +1,3 @@
+RpsTabDemo.MainActivity;rpstabdemo.MainActivity
+RpsTabDemo.HandFrag;rpstabdemo.HandFrag
+RpsTabDemo.WinnerActivity;rpstabdemo.WinnerActivity
